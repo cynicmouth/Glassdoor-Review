@@ -27,6 +27,6 @@ Feel free to point out any improvement or share your thoughts on new ideas! <br>
 Thanks for visiting :)
 
 
-[1]:https://nbviewer.jupyter.org/github/cynicmouth/Data-Practice-with-Python/blob/master/glassdoor_review/Glassdoor%20Review%20EDA.ipynb
+[1]:https://nbviewer.jupyter.org/github/cynicmouth/Glassdoor-Review/blob/master/Glassdoor%20Review%20EDA.ipynb
 
-[2]:https://nbviewer.jupyter.org/github/cynicmouth/Data-Practice-with-Python/blob/master/glassdoor_review/Topic%20Modeling%20With%20Apple%20Glassdoor%20Review.ipynb
+[2]:https://nbviewer.jupyter.org/github/cynicmouth/Glassdoor-Review/blob/master/Topic%20Modeling%20With%20Apple%20Glassdoor%20Review.ipynb
